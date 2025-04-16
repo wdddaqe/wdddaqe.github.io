@@ -7,7 +7,23 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>wdddaqe</copyright>
-        <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 16 Apr 2025 17:36:42 +0800</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Qwq</title>
+        <link>https://example.com/p/qwq/</link>
+        <pubDate>Wed, 16 Apr 2025 17:36:42 +0800</pubDate>
+        
+        <guid>https://example.com/p/qwq/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Testtest</title>
+        <link>https://example.com/p/testtest/</link>
+        <pubDate>Wed, 16 Apr 2025 15:55:48 +0800</pubDate>
+        
+        <guid>https://example.com/p/testtest/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Chinese Test</title>
         <link>https://example.com/p/test-chinese/</link>
         <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
